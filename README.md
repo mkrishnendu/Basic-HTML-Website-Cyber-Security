@@ -2,7 +2,7 @@
 
 ## What is it?
 
-This website was made during my college presentation and in here, I am trying to convey the need for Cyber Security and how to prevent malicious activites through it and also how to safeguard our children from child predators. It's a really simple and basic html,css and js based website.
+This website was made during my college presentation and here, I am trying to convey the need for Cyber Security and how to prevent malicious activities through it, and also how to safeguard our children from child predators. It's a really simple and basic HTML, CSS, and JS-based website.
 
 ## About
 
